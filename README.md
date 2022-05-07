@@ -98,4 +98,5 @@
    A. 万能的淘宝 或者 有条件的可以自己注册一个
 
 
-
+还有疑问的话可以去[Rotaeno购买小贴士](https://github.com/Gj12138/Rotaeno-buy-for-CNperson/blob/main/Rotaeno%E8%B4%AD%E4%B9%B0%E5%B0%8F%E8%B4%B4%E5%A3%AB.md)里查阅
+~~要是还没有的，你就在群里找上面免责声明的那个人~~

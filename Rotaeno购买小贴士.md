@@ -2,7 +2,9 @@
 
 ~~其实是小型Q&A~~
 
-配合群文件里的`预约和购买Rotaeno的教程.png`食用更佳
+@アニつり ←文章有问题在群里找这个人
+
+配合[预约和购买Rotaeno的教程](https://github.com/Gj12138/Rotaeno-buy-for-CNperson/blob/main/README.md)食用更佳
 
 1. Rotaeno本体价格
 

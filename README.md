@@ -2,6 +2,12 @@
 
 @アニつり ←文章有问题在群里找这个人
 
+**Updated on 2023.12.02
+Rotaeno 中国大陆版 即将于【2023年12月5日 11:00 (UTC+8)】发售
+购买链接：[Android(大陆TapTap)](https://www.taptap.cn/app/166257) 和 [iOS(陆区App Store)](https://apps.apple.com/cn/app/id6466390901)
+以下教程如果嫌麻烦的人，↑↑↑**
+
+
 > rotaeno发布国际版是怎么回事呢？rotaeno 大家都很熟悉，但是 rotaeno 到底是什么呢？（
 >
 > 这里小编也不知道（×
